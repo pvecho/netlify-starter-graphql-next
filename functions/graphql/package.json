@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "@prisma/client": "^2.0.0-preview024",
+    "@prisma/client": "2.0.0-preview024",
     "aws-lambda": "^1.0.5",
     "graphql-yoga": "^1.18.3"
   },
   "devDependencies": {
-    "prisma2": "^2.0.0-preview024"
+    "prisma2": "2.0.0-preview024"
   }
 }
